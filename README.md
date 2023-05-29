@@ -1,6 +1,8 @@
-# Math-Magicians App Project
 
-This is a first React app project for a Math-Magicians app, which uses modern web development tools and techniques.
+# Math Magician React App Project
+This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations.
+
+<!-- [Live Demo Link]() -->
 
 <a name="readme-top"></a>
 
@@ -38,7 +40,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    <!-- - [🚀 Live Demo](#live-demo) -->
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -56,19 +58,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math-Magicicans App Project<a name="Math-Magicicans App Project"></a>
+# 📖 Math Magician React App Project<a name="Math Magician React App Project"></a>
 
->
+> This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations. It was built using React, a popular JavaScript library for building user interfaces. 
 
-**Math-Magicicans App Project** is a web project where I will learn to create React app.
+**Math Magician React App Project** is a web project where i test my React programming skills.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 > VS code
-> JavaScript
-> Webpack
-> ES6 features (notably modules)
-> HTML and CSS for markup and styling
+> React
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -81,7 +81,7 @@ After you're finished please remove all the comments and instructions!
   </ul>
 
   <ul>
-    <li><a href="https://css.org/">style.html</a>CSS</li>
+    <li><a href="https://react.org/">react.js</a>React</li>
   </ul>
 </details>
 
@@ -89,14 +89,17 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> VS code
-> React
+> Math-Magician provides the following features:
+
+Addition, subtraction, multiplication, and division of two numbers.
+Clearing the input and output fields.
+Displaying the result of the calculation.
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- [Live Demo Link]() -->
+- [Live Demo Link]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,14 +113,15 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-### Setup
-
-Clone this repository to your desired folder:
+### Installation
+To get started with Math-Magician, follow these steps:
 
 ```sh
-Clone the repository to your local machine
-Install the required dependencies by running ` npm install `
-Open a web browser and go to http://localhost:3000/ to see the app in action
+Clone the repository to your local machine.
+Navigate to the project directory in your terminal.
+Run npm install to install the project dependencies.
+Run npm start to start the development server.
+Open http://localhost:3000 to view the app in your browser.
 ```
 
 ### Usage
@@ -159,14 +163,15 @@ github pages
 - GitHub: [@ShaliniNayan](https://github.com/ShaliniNayan)
 - Twitter: [@sndprs](https://twitter.com/sndprs)
 - LinkedIn: [shalini-nayan-5820389](https://linkedin.com/in/shalini-nayan-5820389)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<!-- > Future enhancements to this app could include: -->
+> Future enhancements to this app could include:
+- Integration with other APIs or databases
+- Improved styling and user interface design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,7 +195,7 @@ If you like this project, follow and contact me back.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse community and my coding partner for their dedicated time to encourage me achieve the best.
+I would like to thank microverse community and my coding partner for their dedicated time to encourage me achieve the best. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,6 +206,10 @@ I would like to thank microverse community and my coding partner for their dedic
 - **Question_1: Have you used linters to check for bugs?**
 
   - yes
+
+- **Question_2: Do the project use database?**
+
+  - Answer_2: not at the moment. To be used as we scale the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
