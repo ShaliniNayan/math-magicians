@@ -57,3 +57,16 @@
 .orange {
   background-color: orange;
 }
+
+.App {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+h1 {
+  text-align: center;
+}
