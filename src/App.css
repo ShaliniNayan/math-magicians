@@ -64,7 +64,8 @@
   align-items: center;
   gap: 50px;
 }
-/* 
+
+/*
 h1 {
   text-align: left;
   justify-content: center;
@@ -78,10 +79,9 @@ h1 {
 nav {
   display: flex;
   flex-direction: row;
-  align-items: right;
   justify-content: flex-end;
   margin-right: 100px;
   gap: 20%;
   font-size: 20px;
-  padding: auto;
+  padding: 20px;
 }
