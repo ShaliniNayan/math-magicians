@@ -35,6 +35,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
+      <h2 style={{ marginLeft: '100px' }}>Let&apos;s do some math!</h2>
       <div className="display">{display}</div>
       <div className="keypad">
         <Button type="normal" label="AC" onClick={() => handleButtonClick('AC')} />
