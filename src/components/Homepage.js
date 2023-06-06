@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => (
   <div>
-    <h2>Welcome to our page!</h2>
+    <h2 className="homeTitle">Welcome to our page!</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi,
       assumenda. Accusamus quo officiis error quam soluta perspiciatis dolor ab

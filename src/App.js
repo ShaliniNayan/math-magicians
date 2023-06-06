@@ -20,30 +20,30 @@ function App() {
             }}
           >
             <li style={{ marginRight: '10px' }}>
-              <Link to="/" style={{ textDecoration: 'none', color: 'blue' }}>
+              <Link to="/" style={{ color: 'blue' }}>
                 Home
               </Link>
             </li>
             <li style={{ marginRight: '10px' }}>
-              <Link
-                to="/calculator"
-                style={{ textDecoration: 'none', color: 'blue' }}
-              >
+              <Link to="/calculator" style={{ color: 'blue' }}>
                 Calculator
               </Link>
             </li>
             <li>
-              <Link
-                to="/quotes"
-                style={{ textDecoration: 'none', color: 'blue' }}
-              >
+              <Link to="/quotes" style={{ color: 'blue' }}>
                 Quotes
               </Link>
             </li>
           </ul>
         </nav>
 
-        <h1 style={{ textAlign: 'flex-start', marginBottom: '60px', marginRight: '100px' }}>
+        <h1
+          style={{
+            textAlign: 'flex-start',
+            marginBottom: '60px',
+            marginRight: '100px',
+          }}
+        >
           Math Magicians
         </h1>
         <Routes>
