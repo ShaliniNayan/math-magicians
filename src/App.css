@@ -1,12 +1,47 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f2f2f2;
+  padding: 30px;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
 .calculator {
   width: 320px;
-  background-color: #f2f2f2;
+  background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 10px;
   box-sizing: border-box;
-  margin-left: auto;
-  margin-right: 100px;
+  margin-bottom: 20px;
+  justify-content: end;
+  margin-left: 800px;
 }
 
 .display {
@@ -17,19 +52,12 @@
   text-align: right;
   font-size: 24px;
   margin-bottom: 10px;
-  grid-column: span 4;
 }
 
 .keypad {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-}
-
-.row {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
-  background-color: #afacac;
 }
 
 .button {
@@ -58,15 +86,6 @@
   background-color: orange;
 }
 
-.App {
-  display: flex;
-  flex-direction: row;
-  height: 100vh;
-  justify-content: center;
-  align-items: center;
-  gap: 50px;
-}
-
-h1 {
-  text-align: center;
+.homeTitle {
+  margin-bottom: 35px;
 }

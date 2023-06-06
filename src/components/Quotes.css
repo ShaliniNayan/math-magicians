@@ -1,9 +1,12 @@
+/* Quotes.css */
+
 .quote {
-  margin: 20px;
+  margin: 20px auto;
   padding: 20px;
   background-color: #f5f5f5;
   border-radius: 5px;
-  width: 38%;
+  width: 60%;
+  justify-content: center;
 }
 
 .quote p {
