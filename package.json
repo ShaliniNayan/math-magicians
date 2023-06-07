@@ -7,11 +7,13 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "big.js": "^6.2.1",
+    "jest": "^27.5.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.2",
     "react-scripts": "^5.0.1",
+    "react-test-renderer": "^18.2.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
