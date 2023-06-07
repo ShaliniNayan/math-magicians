@@ -1,5 +1,5 @@
-
 # Math Magician React App Project
+
 This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations.
 
 <!-- [Live Demo Link]() -->
@@ -40,7 +40,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Math Magician React App Project<a name="Math Magician React App Project"></a>
 
-> This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations. It was built using React, a popular JavaScript library for building user interfaces. 
+> This project is a calculator app called Math-Magician that allows users to perform simple arithmetic calculations. It was built using React, a popular JavaScript library for building user interfaces.
 
 **Math Magician React App Project** is a web project where i test my React programming skills.
 
@@ -68,7 +68,6 @@ After you're finished please remove all the comments and instructions!
 
 > VS code
 > React
-
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -97,9 +96,9 @@ Displaying the result of the calculation.
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]() -->
+- [Live Demo Link](https://math-magician-oh57.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,6 +113,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ### Installation
+
 To get started with Math-Magician, follow these steps:
 
 ```sh
@@ -170,6 +170,7 @@ github pages
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Future enhancements to this app could include:
+
 - Integration with other APIs or databases
 - Improved styling and user interface design
 
@@ -195,7 +196,7 @@ If you like this project, follow and contact me back.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse community and my coding partner for their dedicated time to encourage me achieve the best. 
+I would like to thank microverse community and my coding partner for their dedicated time to encourage me achieve the best.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
